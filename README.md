@@ -4,7 +4,7 @@ Created a simple calendar application that allows a user to save events for each
 
 ## Deployed App
 
-[Deployed app]()
+[Deployed app](https://foglea10.github.io/Day-Planner/)
 
 ## Screenshot of Deployed App
 
